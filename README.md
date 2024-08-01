@@ -6,3 +6,4 @@ online go editor - https://codesandbox.io/p/devbox/go-starting-project-x9r4dm
 
 - [GH actions code](https://github.com/lm-academy/github-actions-course)
 - [GH actions sample app](https://github.com/lm-academy/github-actions-course-example-e2e)
+- [matrices = run several variation of same job]
